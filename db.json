@@ -21,7 +21,7 @@
   { "id": 19, "name_ru": "Фантастика", "name_eng": "fantasy-2", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
   { "id": 20, "name_ru": "Семейный", "name_eng": "family", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
   { "id": 21, "name_ru": "Мюзикл", "name_eng": "musical", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
-  { "id": 22, "name_ru": "Фильм-нуар", "name_eng": "noir", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" },
+  { "id": 22, "name_ru": "Фильм-нуар", "name_eng": "noir", "poster": "https://static.pantone.ru/public/HYDKJEJ6KPaw3KJnPP9s3A/gradient-1080x675.jpg" }
   ],
   "profile": {
     "name": "Profile 1"
